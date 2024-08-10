@@ -17,8 +17,6 @@ To address potential visual issues, such as bottom padding space, the code dynam
 https://github.com/user-attachments/assets/656a81b6-7319-404e-8045-a7e4e7ac8a8a
 
 #
-
-#
 ### Related Links
 
 [Alien Life](https://github.com/sourceduty/Alien_Life)
