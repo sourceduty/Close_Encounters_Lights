@@ -23,5 +23,9 @@ https://github.com/user-attachments/assets/656a81b6-7319-404e-8045-a7e4e7ac8a8a
 <br>
 [UFO Traffic Light](https://github.com/sourceduty/UFO_Traffic_Light)
 
+#
+
+![Light Board](https://github.com/user-attachments/assets/abaac72b-560e-43d2-9bc2-96090eb16d29)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
