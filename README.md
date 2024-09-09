@@ -1,4 +1,4 @@
-![Close Encounters of the Third Kind](https://github.com/user-attachments/assets/2ff4ac0c-9e7d-4783-a3c9-985939711c18)
+![Close Encounters of the Third Kind](https://github.com/user-attachments/assets/979767ed-6088-420b-ad01-61a2508c76ee)
 
 > Interactive light board with a 5x6 grid of cells, where each cell can display various colors.
 
@@ -11,6 +11,10 @@ The primary functionality of the program includes the ability to apply predefine
 The code uses Pygame’s drawing functions to render each cell of the grid with the specified color. It employs a straightforward event loop to handle user inputs, including key presses and releases. When a key is pressed, the program updates the grid with the selected pattern and plays the related sound. Upon releasing a key, the grid is cleared, and any currently playing sound is stopped. This ensures that the grid updates are responsive to user interactions.
 
 To address potential visual issues, such as bottom padding space, the code dynamically adjusts the grid height to ensure it matches the window height precisely. This adjustment eliminates any unwanted padding or spacing, resulting in a perfectly aligned grid. The program’s design effectively balances functionality and aesthetics, providing a well-integrated and engaging interactive light board experience.
+
+#
+
+![Close Encounters of the Third Kind](https://github.com/user-attachments/assets/2ff4ac0c-9e7d-4783-a3c9-985939711c18)
 
 #
 
